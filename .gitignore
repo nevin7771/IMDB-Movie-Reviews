@@ -1,0 +1,17 @@
+# Python / uv
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# IMDB data (large; re-download from Stanford / extract aclImdb_v1.tar.gz locally)
+aclImdb/
+aclImdb_v1.tar.gz
