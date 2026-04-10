@@ -15,3 +15,6 @@ __pycache__/
 # IMDB data (large; re-download from Stanford / extract aclImdb_v1.tar.gz locally)
 aclImdb/
 aclImdb_v1.tar.gz
+
+# Saved sklearn pipeline (regenerate with day7_train_save.py)
+models/*.joblib
